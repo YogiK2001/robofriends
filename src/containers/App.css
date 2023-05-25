@@ -1,0 +1,23 @@
+@font-face {
+  font-family: pdark;
+  src: url(pdark.ttf);
+}
+
+div {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-family: pdark;
+  color: #ae7711;
+  font-weight: 200;
+  font-size: xx-large;
+  margin-bottom: 0;
+}
+
+h4 {
+  color: #ae7711;
+  font-weight: 200;
+  margin: 0%;
+  padding: 4px;
+}
